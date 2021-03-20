@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "5fbfc021-45b3-4239-b1ea-34602e39d1ab",
+      "name": "shankar.k",
+      "email": "umasankarno66@gmail.com"
+    },
+    {
+      "id": "a6519f3c-ee4f-4548-89dc-550e33cd21f3",
+      "name": "kasala.shankar",
+      "email": "blavanya15@gmail.com"
+    },
+    {
+      "id": "d12ededd-fa56-4811-8d83-e97b271ea8b1",
+      "name": "hamsika.shankar",
+      "email": "hamsika.shankar@gmail.com"
+    }
+  ]
+}

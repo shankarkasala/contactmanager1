@@ -1,0 +1,12 @@
+.button {
+  transition-duration: 0.4s;
+  border-radius: 12px;
+  border-style: outset;
+  background-color: #008CBA;
+  border: none;
+}
+
+.button:hover {
+  background-color: #073ef3; /* Green */
+  color: white;
+}
